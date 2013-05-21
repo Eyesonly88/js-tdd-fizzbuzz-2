@@ -1,0 +1,4 @@
+YUI Test Guide 	: http://yuilibrary.com/yui/docs/test/
+YUI Assert API 	: http://yuilibrary.com/yui/docs/api/classes/Test.Assert.html
+YUI Mock API	: http://yuilibrary.com/yui/docs/api/classes/Test.Mock.html
+YUI Grover	: https://github.com/davglass/grover/
